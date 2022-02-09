@@ -1,4 +1,4 @@
-# Esse foi um projeto que copia a "carinha" do Instagran
+# Esse é um projeto que copia a "carinha" do Instagran
 
 Esse é o repositório da minha aula de Flexbox, na qual eu refiz a interface de login do Instagram!
 
